@@ -1,4 +1,4 @@
-# password-checker
+
 ## What It Does
 
 - This Python script checks if one or more passwords have been exposed in known data breaches by querying the Have I Been       Pwned API.
